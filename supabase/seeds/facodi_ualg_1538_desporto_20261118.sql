@@ -1,4 +1,4 @@
--- Script de dados para aplicar via Supabase MCP, como no #69. Não é uma migração.
+-- Script para aplicar via Supabase MCP, fora do PR (ver #66 e #72). Não é uma migração e não entra em supabase/migrations.
 -- FACODI · Licenciatura em Desporto, Universidade do Algarve / ESEC (curso 1538), plano 2026/27
 -- Plano: https://www.ualg.pt/curso/1538/plano. 32 UCs: 24 obrigatórias (156 ECTS, com o Estágio de 30) e quatro grupos de opção de 2 UCs cada
 -- (Opção I e II com 7 ECTS, Opção III e IV com 5) = 180 ECTS. Cada UC tem curriculum_placements (Tronco Comum).
